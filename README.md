@@ -1,5 +1,5 @@
-# SRE Prueba Técnica — Servicio de Procesamiento de Datos
-#Jairo Andres Mendoza P.
+# Servicio de Procesamiento de Datos
+
 
 ## Diagrama de Arquitectura
 
